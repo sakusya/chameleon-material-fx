@@ -5,7 +5,7 @@
 ## 概要
 - 対応シェーダー：ray-mmd / sdPBR
 - 特徴：HSV制御・RGB制御の2パターンを同梱。テクスチャ画像の編集なしでも色を自由自在に変えられます。
-- 使い方：詳細は[wikiページ]()を参照してください。
+- 使い方：詳細は[wikiページ](https://github.com/sakusya/chameleon-material-fx/wiki)を参照してください。
 
 ## Download（ダウンロード）
 
