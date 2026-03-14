@@ -29,3 +29,7 @@
 ## 制作者
 - sakusya（@aysukasakusya）
 
+## Preview
+
+使用モデル
+Virtu-A-Dolls 04: 凌香 F ウェンデル (フリー) by VRキャラクター製作所 (カフジ)
